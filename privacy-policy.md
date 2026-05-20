@@ -1,12 +1,16 @@
 # Washi Stash Privacy Policy
 
-Effective date: May 10, 2026
+Effective date: May 20, 2026
 
-Washi Stash is an offline-first app for cataloging washi tape collections, wishlist items, storage locations, notes, prices, and user-selected photos.
+Washi Stash is a local-first app for cataloging washi tape collections, wishlist items, storage locations, notes, prices, and user-selected photos.
 
 ## Data We Collect
 
 Washi Stash does not require an account and does not collect personal data on our servers. The app stores collection data locally on your device. This can include roll names, shops/artists, colors, tags, storage notes, purchase details you enter, and photos you choose.
+
+## Purchases
+
+Washi Stash is free to download with an optional one-time Washi Stash Pro unlock. Purchases and restores are processed by Apple StoreKit on Apple platforms or Google Play Billing on Android. We do not receive your payment card details, Apple ID, Google account details, or store receipt contents.
 
 ## Photos and Camera
 

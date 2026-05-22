@@ -16,10 +16,6 @@ Washi Stash is free to download with an optional one-time Washi Stash Pro unlock
 
 If you choose to add a photo, the app uses your camera or photo picker only for the roll or swatch image you select. Photos remain on your device unless you export or share them yourself.
 
-## Purchases
-
-Washi Stash is free to download with an optional one-time Washi Stash Pro unlock. Purchases and restores are processed by Apple StoreKit on Apple platforms or Google Play Billing on Android. We do not receive your payment card details, Apple ID, Google account details, or store receipt contents.
-
 ## Analytics, Tracking, and Ads
 
 Washi Stash does not include third-party analytics, advertising, tracking, or cross-app tracking.

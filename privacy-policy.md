@@ -10,7 +10,7 @@ Washi Stash does not require an account and does not collect personal data on ou
 
 ## Purchases
 
-Washi Stash is free to download with an optional one-time Washi Stash Pro unlock. Purchases and restores are processed by Apple StoreKit on Apple platforms or Google Play Billing on Android. We do not receive your payment card details, Apple ID, Google account details, or store receipt contents.
+Washi Stash includes a 3-day full-access free trial, then a one-time Washi Stash Pro unlock. Purchases and restores are processed by Apple StoreKit on Apple platforms or Google Play Billing on Android. We do not receive your payment card details, Apple ID, Google account details, or store receipt contents.
 
 ## Photos and Camera
 

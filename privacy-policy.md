@@ -12,7 +12,7 @@
 
 # Washi Stash Privacy Policy
 
-Effective date: May 20, 2026
+Effective date: November 21, 2026
 
 Washi Stash is a local-first app for cataloging washi tape collections, wishlist items, storage locations, notes, prices, and user-selected photos.
 
@@ -34,7 +34,7 @@ Washi Stash does not include third-party analytics, advertising, tracking, or cr
 
 ## Exports and Imports
 
-You can export your collection as JSON or CSV. Any exported file is controlled by you and may contain the collection details you entered.
+Plain JSON or CSV exports can contain the collection details you entered. On Android you can also save a portable ZIP backup with a passphrase. Collection data and attached photos are encrypted. The ZIP manifest is readable without the passphrase and includes the creation time, app and format versions, item counts, and attachment paths, hashes and sizes. You choose the file provider or sharing destination. Removing the app does not delete copies you saved elsewhere.
 
 ## Children
 
@@ -47,11 +47,3 @@ For privacy questions, contact Rizk Corsight through the company website: https:
 ## Changes
 
 If this policy changes, the updated version will be posted with a new effective date.
-
-<!-- store-audit-2026-06-30-start -->
-## Store Listing Alignment
-
-**Checked 2026-06-30.** This page was compared with the public App Store and Google Play listings. Where a store privacy or data-safety label was visible, it said the developer does not collect user data.
-
-**Accurate app behavior:** Tape collection entries, photos, projects, wishlists, purchase details you enter, backups, labels, and exports stay local. Camera/photo picker use is optional. The 3-day trial starts locally; Apple App Store or Google Play handles only the one-time Pro unlock, restore, refund, receipt, or price display. No accounts, ads, analytics, tracking, or developer backend are used.
-<!-- store-audit-2026-06-30-end -->
